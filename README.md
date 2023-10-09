@@ -1,3 +1,5 @@
+# PREVIEW: https://imgur.com/eyDV1QK
+
 1. BACKUP EVERYTHING IN ox_inventory > web > build
 
 2. go to ox_inventory > web > build then replace the code in the '.html' file with the code in 'code.html' (DO NOT CHANGE THE NAME JUST REPLACE THE CODE)
